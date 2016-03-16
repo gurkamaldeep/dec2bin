@@ -1,4 +1,4 @@
-#script for inverting the binary value
+#Python script for inverting the binary value
 
 print 'enter 0 to close'
 while True:
