@@ -1,5 +1,6 @@
 #Python script for inverting the binary value
 
+
 print 'enter 0 to close'
 while True:
     user_input = int(raw_input('Enter the decimal number:'))
